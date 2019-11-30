@@ -3,7 +3,7 @@ This project is to protect Burning Vocabulary from steal and describe its copyri
 
 ## Copyright Notice
 Burning Vocabulary is original.  
-Burning Vocabulary's author is 游少华(English name: Shawn You). 
+Burning Vocabulary's author is 游少华(English name: Shawn You).  
 Burning Vocabulary was created in Aug. 2019.   
 The repository commit history as proven.  
 Here is detail of Burning Vocabulary below.
