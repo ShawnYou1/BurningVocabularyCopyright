@@ -32,7 +32,7 @@ Burning Vocabulary's creator is a Chinese engineer named 游少华(English name:
 He has the idea while he read some English articles.    
 [Shawn's personal website](https://youshaohua.com/)
 
-## Social Medim
+## Social Media
 [Facebook](https://www.facebook.com/burningvocabulary/)  
 [Twitter](https://twitter.com/BurningVocabul1)  
 
