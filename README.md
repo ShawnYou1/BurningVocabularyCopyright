@@ -2,7 +2,7 @@
 This project is to protect Burning Vocabulary from steal and describe its copyright
 
 
-![中文版权声明](https://github.com/ShawnYou1/BurningVocabularyCopyright/blob/master/zh-CN.md)
+[中文版权声明](https://github.com/ShawnYou1/BurningVocabularyCopyright/blob/master/zh-CN.md)
 
 ## What is Burning Vocabulary
 Burning Vocabulary is a Chrome browser extension. It helps expand your vocabulary fast and effectively by mark the words you don't understand while surfing the web.

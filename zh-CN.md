@@ -2,7 +2,7 @@
 此仓库用于Burning Vocabulary版权声明
 
 
-![英文版权声明](https://github.com/ShawnYou1/BurningVocabularyCopyright)
+[英文版权声明](https://github.com/ShawnYou1/BurningVocabularyCopyright)
 
 ## 什么是Burning Vocabulary
 Burning Vocabulary是由游少华于2019年在学习英语期间发现的一种高效的记单词方法，这里的单词不限制语言，通过在网络上浏览要学习的语言（如英文），标记不认识的单词。
