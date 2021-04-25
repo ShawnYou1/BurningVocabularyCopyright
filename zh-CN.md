@@ -1,5 +1,6 @@
 # Burning Vocabulary 版权
-此仓库用于Burning Vocabulary版权声明
+此仓库用于Burning Vocabulary版权声明  
+我们已对登记了软件著作权和部分专利
 
 
 [英文版权声明](https://github.com/ShawnYou1/BurningVocabularyCopyright)
@@ -7,7 +8,7 @@
 ## 什么是Burning Vocabulary
 Burning Vocabulary是由游少华于2019年在学习英语期间发现的一种高效的记单词方法，这里的单词不限制语言，通过在网络上浏览要学习的语言（如英文），标记不认识的单词。
 
-Burning Vocabulary是一个浏览器扩展。它能帮助语言学习者通过浏览网页高效快速的记忆单词。
+Burning Vocabulary是一个语言和词汇学习工具。它能帮助语言学习者通过浏览网页高效快速的记忆单词。
 
 
 ## 版权提示
@@ -30,8 +31,9 @@ Burning Vocabulary在2019年8月被创建。
 * 词汇flashcards.
 * 句子快照.
 * 通过License可获取增强功能.
-* 用户可以导入单词.
+* 用户可以导入导出单词.
 * 用户可以修改弹窗种单词定义.
+* 在入网络视频Netflix、Youtube字幕上标注单词.
 
 ## Burning Vocabulary 的诞生
 Burning Vocabulary 是由一位来自中国的软件工程师游少华于2019年8月创建.  
@@ -46,8 +48,14 @@ Burning Vocabulary 是由一位来自中国的软件工程师游少华于2019年
 [https://burningvocabulary.com/](https://burningvocabulary.com/)  
 
 ## Burning Vocabulary Chrome 客户端地址
-[https://chrome.google.com/webstore/detail/burning-vocabulary/ljfjnlcnpmabfcgcmffkmgainghokdpl](https://chrome.google.com/webstore/detail/burning-vocabulary/ljfjnlcnpmabfcgcmffkmgainghokdpl)
+[https://chrome.google.com/webstore/detail/burning-vocabulary/ljfjnlcnpmabfcgcmffkmgainghokdpl](https://chrome.google.com/webstore/detail/burning-vocabulary/ljfjnlcnpmabfcgcmffkmgainghokdpl)  
+
+## Burning Vocabulary Microsoft Edge 客户端地址
+[https://microsoftedge.microsoft.com/addons/detail/burning-vocabulary-highl/coeblijomkcjgiiddlghlnjegkapimjh](https://microsoftedge.microsoft.com/addons/detail/burning-vocabulary-highl/coeblijomkcjgiiddlghlnjegkapimjh)
 
 ## Burning Vocabulary 在Producthunt
 [https://www.producthunt.com/posts/burning-vocabulary](https://www.producthunt.com/posts/burning-vocabulary)
+
+## Web Archive
+[2021-4-25 Web Archive](https://web.archive.org/web/20210425032050/https://burningvocabulary.com/?lang=zh)
 
