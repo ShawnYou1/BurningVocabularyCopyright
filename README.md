@@ -10,7 +10,6 @@ Burning Vocabulary is a Chrome browser extension. It helps expand your vocabular
 
 ## Copyright Notice
 Burning Vocabulary is original.  
-Burning Vocabulary's founder is 游少华(English name: Shawn You).  
 Burning Vocabulary was created in Aug. 2019.   
 The repository commit history as proven.  
 Here is detail of Burning Vocabulary below.
